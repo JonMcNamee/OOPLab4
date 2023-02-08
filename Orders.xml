@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+    <Order>
+        <Name>Tamir Hussan</Name>
+        <Delivery>true</Delivery>
+        <Amount>1234.56</Amount>
+    </Order>
+    <Order>
+        <Name>Jose Hernandez</Name>
+        <Delivery>false</Delivery>
+        <Amount>845.63</Amount>
+    </Order>
+    <Order>
+        <Name>Helen Guimond</Name>
+        <Delivery>true</Delivery>
+        <Amount>129.40</Amount>
+    </Order>
+    <Order>
+        <Name>Chris London</Name>
+        <Delivery>true</Delivery>
+        <Amount>857.50</Amount>
+    </Order>
+</Orders>
