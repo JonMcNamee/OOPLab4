@@ -1,0 +1,11 @@
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\bin\Debug\JMJMLab4.exe.config
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\bin\Debug\JMJMLab4.exe
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\bin\Debug\JMJMLab4.pdb
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\obj\Debug\JMJMLab4.csproj.AssemblyReference.cache
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\obj\Debug\JMJMLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\obj\Debug\JMJMLab4.OrderForm.resources
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\obj\Debug\JMJMLab4.Properties.Resources.resources
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\obj\Debug\JMJMLab4.csproj.GenerateResource.cache
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\obj\Debug\JMJMLab4.csproj.CoreCompileInputs.cache
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\obj\Debug\JMJMLab4.exe
+C:\Users\jonah\OneDrive\Documents\NBCC\Prog\JMJMLab4\JMJMLab4\obj\Debug\JMJMLab4.pdb
